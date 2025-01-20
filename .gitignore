@@ -145,7 +145,6 @@ pyvenv.cfg
 *~
 share/
 *.dta
-*.ipynb
 etc/
 
 /data/input/CleanData_LASpending.dta
